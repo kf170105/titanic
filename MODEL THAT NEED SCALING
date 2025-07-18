@@ -1,0 +1,15 @@
+Algorithms that NEED features scaling:
+
+Logistic Regression ✅ (what you're using)
+SVM
+Neural Networks
+K-Means Clustering
+KNN (K-Nearest Neighbors)
+
+
+Algorithms that DON'T need features scaling:
+
+Decision Trees
+Random Forest
+XGBoost/LightGBM
+Naive Bayes

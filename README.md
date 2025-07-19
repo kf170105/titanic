@@ -14,3 +14,4 @@ Comprehensive Evaluation for BOTH Models ✅
 Accuracy Scores ✅
 Confusion Matrix ✅
 Classification Report (Precision, Recall, F1-Score) ✅
+predict probabiloty (how sure model is about this prediction) ✅
